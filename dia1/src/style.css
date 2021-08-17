@@ -5,4 +5,15 @@
   text-align: center;
   color: #2c3e50;
   margin-top: 60px;
+  display: block;
+}
+
+.link {
+  color: red;
+  margin-top: auto;
+  margin: 50%;
+}
+
+.appHidden {
+  display: none;
 }
